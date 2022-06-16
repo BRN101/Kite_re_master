@@ -1,4 +1,4 @@
-package;
+package;friday night funkin.kade engine
 
 import flixel.util.FlxColor;
 import flixel.FlxG;
